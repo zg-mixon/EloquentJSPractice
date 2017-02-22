@@ -78,3 +78,5 @@ addEntry (["work" , "ice cream", "cauliflower", "lasagna",
 "touched tree", "brushed teeth"] , false );
 addEntry (["weekend" , "cycling" , "break", "peanuts",
 "beer"] , true );
+
+// Comment to test new git credential settings
